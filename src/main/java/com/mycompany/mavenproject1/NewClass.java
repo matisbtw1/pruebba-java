@@ -13,3 +13,8 @@ public class NewClass {
     private int fortnite;
     private int auto;
 }
+public class notas {
+    private int valorant;
+    private double pavos;
+    public notas();
+}
