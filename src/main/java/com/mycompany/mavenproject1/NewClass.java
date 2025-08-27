@@ -10,5 +10,6 @@ package com.mycompany.mavenproject1;
  * @author mati
  */
 public class NewClass {
-    int auto;
+    private int fortnite;
+    private int auto;
 }
